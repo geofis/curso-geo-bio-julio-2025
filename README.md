@@ -71,15 +71,17 @@ herramientas de mesa y digitales provistas por el profesor.
 
 # Contenido
 
-**Tema 1. **
+## Teórico
 
-- 
+- **Tema 1. **
 
-Prácticas
+- **Tema 2. **
+
+## Prácticas
 
 ### Mapas geológico y geomorfológico
 
-- Minerales y rocas
+- Minerales y rocas.
 
 - Intrumentos de campo y de laboratorio en geología y geomorfología.
 

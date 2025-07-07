@@ -101,7 +101,6 @@ background-image: url(img/fondo.jpg)
 
 - En función de la salida de campo finalmente elegida: sección de río, perfil de playa.
 
-
 ---
 
 # Evaluación y participación
