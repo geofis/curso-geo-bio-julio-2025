@@ -33,13 +33,22 @@ background-image: url(img/fondo.jpg)
   - Aula FC-101 o FC-203: del **9 al 11 de julio**, de 3 a 7 pm
   - **Salida de campo**: sábado **12 de julio**
 
-- **Logística**  
-  - Aula con proyector  
-  - Materiales de apoyo impresos y digitales  
+- **Logística**
+
+  - Baños
+  
+  - WiFi
+
+  - Aula con proyector
+  
+  - Materiales de apoyo impresos y digitales
+  
   - Recomendaciones para la salida de campo
 
 - **Presentación general del curso**
+
   - Nivel básico, con énfasis en aplicaciones biológicas
+  
   - Participación activa: ¡este es un espacio para preguntar, proponer y conectar ideas!
 
 ---
@@ -47,9 +56,13 @@ background-image: url(img/fondo.jpg)
 # Objetivos del curso
 
 - **Introducir conceptos básicos** de geología y geomorfología relevantes para estudiantes de biología.
+
 - **Relacionar el medio físico con los procesos ecológicos**, evolutivos y de distribución de especies.
+
 - **Explorar formas del terreno y materiales geológicos** en mapas y en campo.
+
 - **Familiarizarse con el lenguaje geológico** y con herramientas básicas para su interpretación.
+
 - **Interpretar las formas del relieve y las estructuras geológicas** como condicionantes del hábitat, la dispersión y la evolución de las especies
 
 ---
@@ -57,7 +70,9 @@ background-image: url(img/fondo.jpg)
 # ¿Por qué geología y geomorfología?
 
 - Las especies no se distribuyen al azar: el **suelo, el relieve y la litología** son filtros ecológicos.
+
 - La **evolución biológica** está entrelazada con la evolución geológica de la Tierra, y con el modelado de su superficie.
+
 - Para comprender hábitats, corredores, barreras y procesos ecológicos, debemos conocer el **medio físico**.
 
 ---
@@ -67,16 +82,23 @@ background-image: url(img/fondo.jpg)
 ### En las sesiones de aula:
 
 - Cartografía geológica y geomorfológica básica.
+
 - Identificación de formas del relieve.
+
 - Mapas, cortes geológicos y principios estratigráficos.
+
 - Interpretación de paisajes con fotografías aéreas, imágenes satelitales y mapas topográficos.
 
 ### En la salida de campo:
 
 - Observación directa de unidades geológicas y formas del relieve.
+
 - Reconocimiento de procesos geomorfológicos activos.
+
 - Registro en hojas de campo.
+
 - Colecta de muestras de mano.
+
 - En función de la salida de campo finalmente elegida: sección de río, perfil de playa.
 
 
@@ -85,9 +107,13 @@ background-image: url(img/fondo.jpg)
 # Evaluación y participación
 
 - Este curso **no es evaluado con notas**.
+
 - Sin embargo, se espera:
+
   - Participación activa en discusiones
+  
   - Cumplimiento de tareas prácticas
+  
   - Asistencia puntual
 
 ---
@@ -95,19 +121,24 @@ background-image: url(img/fondo.jpg)
 # ¿Qué necesitas?
 
 - Libreta o bitácora.
+
 - Lápiz o bolígrafo.
+
 - Teléfono móvil.
+
 - Ropa cómoda para la salida de campo (botas, gorra, agua, protector solar).
+
 - Si tienes una PC portátil, tráela para las sesiones de aula (opcional).
+
 - ¡Curiosidad y ganas de observar el mundo físico!
 
 ---
 
-# Cierre de bienvenida
+class: center, middle
 
-# Cierre de bienvenida
+# Comencemos
 
-> "No se vislumbra vestigio de un principio, ni perspectiva de un fin."  
-> — *James Hutton*
+### "No se vislumbra vestigio de un principio, ni perspectiva de un fin."  
+### — *James Hutton*
 
-¡Nos vemos en el aula!
+Esto, traducido, sería algo así como "seguimos ..."

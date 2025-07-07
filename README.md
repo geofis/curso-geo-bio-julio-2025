@@ -79,6 +79,10 @@ Prácticas
 
 ### Mapas geológico y geomorfológico
 
+- Minerales y rocas
+
+- Intrumentos de campo y de laboratorio en geología y geomorfología.
+
 - Estructuras sedimentarias, estructuras tectónicas, el tiempo en
   geología. Mapa geológico, corte geológico
 
