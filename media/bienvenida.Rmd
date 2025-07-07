@@ -111,6 +111,3 @@ background-image: url(img/fondo.jpg)
 > — *James Hutton*
 
 ¡Nos vemos en el aula!
-
-
-¡Nos vemos en el aula!
