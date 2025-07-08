@@ -56,15 +56,12 @@ if (grepl('gfm', output_format)) {
 ```
 
 
-![Código QR para acceder a este portal](qr.jpg){width=50%}
+## Código QR para acceder a este portal
+
+<img src="qr.jpg" width="300px">
 
 
-# Presentaciones de diapositivas incluidas en este repo y otros materiales:
-
-- [Bienvenida](`r paste0(github_pages_url_general, 'media/bienvenida.html')`)
-
-- 
-
+<!-- ![Código QR para acceder a este portal](qr.jpg){width=50%} -->
 ***
 
 ## Dirigido a ...
@@ -81,50 +78,52 @@ if (grepl('gfm', output_format)) {
 
 ## Metodología común
 
-Las sesiones serán de 1 hora, basadas en una breve introducción de conocimientos, seguidas de una sesión práctica. Se utilizarán herramientas de mesa y digitales provistas por el profesor.
+Las sesiones serán de 2 horas; en cada una, se hará una breve introducción de conocimientos, seguida de una sesión práctica. Se utilizarán herramientas de mesa y digitales provistas por el profesor.
 
 # Contenido
 
-## Teórico
+## [Bienvenida](`r paste0(github_pages_url_general, 'media/bienvenida.html')`)
+
+## Teoría
 
 - [**Tema 1. Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete**](`r paste0(github_pages_url_general, 'media/tema-1-intro.html')`). Clasificación básica de minerales según su composición y propiedades, identificación de tipos principales de rocas ígneas, sedimentarias y metamórficas, reconocimiento de propiedades físicas relevantes para la biología como porosidad, permeabilidad y composición química, relación entre tipo de roca y disponibilidad de nutrientes o hábitats, nociones básicas de cartografía geológica y lectura de leyendas, interpretación de mapas geológicos con énfasis en formaciones superficiales, introducción a los mapas geomorfológicos y las principales formas del relieve, lectura de símbolos y sombreado, relación entre formas del terreno y procesos ecológicos.
 
 - **Tema 2. **
 
 
-## Práctico
+## Práctica
 
 - [Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete](`r paste0(github_pages_url_general, 'media/tema-1-practica.html')`)
 
 
-- Meteorización y su importancia sobre la distribución de los seres vivos
+- [Meteorización y su importancia sobre la distribución de los seres vivos]
 
 
-### Fuentes y geomorfometría digital
+- [Fuentes y geomorfometría digital]()
 
-- Fuentes de información geográfica en geología y geomorfología. ¿Cómo asociar lo que vemos en un DEM con la distribución de los seres vivos?
+  - Fuentes de información geográfica en geología y geomorfología. ¿Cómo asociar lo que vemos en un DEM con la distribución de los seres vivos?
 
-- Geomorfometría, análisis de formas del terreno y su relación con la distribución de especies en sistemas montañosos y vertientes. Desde el MTN al DEM
+  - Geomorfometría, análisis de formas del terreno y su relación con la distribución de especies en sistemas montañosos y vertientes. Desde el MTN al DEM
 
-### Geomorfología fluvial
+- [Geomorfología fluvial]()
 
-- Hidromorfometría, hidrología computacional, hidráulica, relación con fauna y flora acuática, capturas y su relevancia en la distribución y evolución.
+  - Hidromorfometría, hidrología computacional, hidráulica, relación con fauna y flora acuática, capturas y su relevancia en la distribución y evolución.
 
-### Relieves litológicos y estructurales
+- [Relieves litológicos y estructurales]()
 
-- Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies corrosivas), microformas, y su relación con la distribución de especies.
+  - Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies corrosivas), microformas, y su relación con la distribución de especies.
 
-- Relieve granítico: el gran desconocido del mundo tropical.
+  - Relieve granítico: el gran desconocido del mundo tropical.
 
-- Relieves estructurales: cuestas, jurásico, etc.
+  - Relieves estructurales: cuestas, jurásico, etc.
 
-### Geomorfología litoral
+- [Geomorfología litoral]()
 
-- Lítoral, costa, línea de costa.
+  - Lítoral, costa, línea de costa.
 
-- Dunas, distribución de la vegetación costera.
+  - Dunas, distribución de la vegetación costera.
 
-- Percentiles/deciles de granulometría, clastos, y cómo influyen en la retención de agua, la estabilidad del sustrato y la disponibilidad de microhábitats, factores clave para muchas especies. 
+  - Percentiles/deciles de granulometría, clastos, y cómo influyen en la retención de agua, la estabilidad del sustrato y la disponibilidad de microhábitats, factores clave para muchas especies. 
 
 ## Referencias
 

@@ -6,48 +6,19 @@ José Martínez
 Versión HTML (quizá más legible),
 [aquí](https://geofis.github.io/curso-geo-bio-julio-2025/README.html)
 
-<figure>
-<img src="qr.jpg" style="width:50.0%"
-alt="Código QR para acceder a este portal" />
-<figcaption aria-hidden="true">Código QR para acceder a este
-portal</figcaption>
-</figure>
+## Código QR para acceder a este portal
 
-## Formulario
+<img src="qr.jpg" width="300px">
 
-Por favor, completa [este
-formulario](https://docs.google.com/forms/d/e/1FAIpQLScAwIP0FHMQifOPWLPSnTE1CdRTs5p9RwxBZt-4SGl_zpwmbQ/viewform?usp=dialog).
-
-## Calendario de oferta de formación continua
-
-Visita [este
-calendario](https://calendar.google.com/calendar/u/0/embed?src=c_e2675d36ebc399b645ea939b0bfdf0156c9ed9c8805219cd1cc0ef07b82d141f@group.calendar.google.com&ctz=America/Santo_Domingo),
-por si te interesa la oferta de formación que ofreceré durante este
-verano.
-
-## Autopresentación
-
-- Nombres, apellidos.
-
-- Formación y/o área profesional.
-
-- Municipio de residencia.
-
-- Una expectativa del curso.
-
-# Presentaciones de diapositivas incluidas en este repo y otros materiales:
-
-- [Bienvenida](https://geofis.github.io/curso-geo-bio-julio-2025/media/bienvenida.html)
-
-- 
+<!-- ![Código QR para acceder a este portal](qr.jpg){width=50%} -->
 
 ------------------------------------------------------------------------
 
 ## Dirigido a …
 
 - Estudiantes, especialmente de biología o geografía, y profesionales
-  con interés en adquirir o mejorar sus habilidades en análisis
-  geoespacial.
+  con interés en adquirir o mejorar sus habilidades en geociencias y
+  técnicas de análisis geomorfológico
 
 ## Objetivos del curso
 
@@ -65,62 +36,76 @@ verano.
 
 ## Metodología común
 
-Las sesiones serán de 1 hora, basadas en una breve introducción de
-conocimientos, seguidas de una sesión práctica. Se utilizarán
-herramientas de mesa y digitales provistas por el profesor.
+Las sesiones serán de 2 horas; en cada una, se hará una breve
+introducción de conocimientos, seguida de una sesión práctica. Se
+utilizarán herramientas de mesa y digitales provistas por el profesor.
 
 # Contenido
 
-## Teórico
+## [Bienvenida](https://geofis.github.io/curso-geo-bio-julio-2025/media/bienvenida.html)
 
-- **Tema 1. **
+## Teoría
+
+- [**Tema 1. Minerales, rocas, formas del relieve, y su relación con la
+  biota. Fuentes, cartografía, técnicas de campo y de
+  gabinete**](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-1-intro.html).
+  Clasificación básica de minerales según su composición y propiedades,
+  identificación de tipos principales de rocas ígneas, sedimentarias y
+  metamórficas, reconocimiento de propiedades físicas relevantes para la
+  biología como porosidad, permeabilidad y composición química, relación
+  entre tipo de roca y disponibilidad de nutrientes o hábitats, nociones
+  básicas de cartografía geológica y lectura de leyendas, interpretación
+  de mapas geológicos con énfasis en formaciones superficiales,
+  introducción a los mapas geomorfológicos y las principales formas del
+  relieve, lectura de símbolos y sombreado, relación entre formas del
+  terreno y procesos ecológicos.
 
 - **Tema 2. **
 
-## Prácticas
+## Práctica
 
-### Mapas geológico y geomorfológico
+- [Minerales, rocas, formas del relieve, y su relación con la biota.
+  Fuentes, cartografía, técnicas de campo y de
+  gabinete](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-1-practica.html)
 
-- Minerales y rocas.
+- \[Meteorización y su importancia sobre la distribución de los seres
+  vivos\]
 
-- Intrumentos de campo y de laboratorio en geología y geomorfología.
+- [Fuentes y geomorfometría digital]()
 
-- Estructuras sedimentarias, estructuras tectónicas, el tiempo en
-  geología. Mapa geológico, corte geológico
+  - Fuentes de información geográfica en geología y geomorfología. ¿Cómo
+    asociar lo que vemos en un DEM con la distribución de los seres
+    vivos?
 
-- Geomorfología, formas del relieve, procesos geomorfológicos, mapa
-  geomorfológico, corte geomorfológico.
+  - Geomorfometría, análisis de formas del terreno y su relación con la
+    distribución de especies en sistemas montañosos y vertientes. Desde
+    el MTN al DEM
 
-### Fuentes y geomorfometría digital
+- [Geomorfología fluvial]()
 
-- Fuentes de información geográfica en geología y geomorfología. ¿Cómo
-  asociar lo que vemos en un DEM con la distribución de los seres vivos?
+  - Hidromorfometría, hidrología computacional, hidráulica, relación con
+    fauna y flora acuática, capturas y su relevancia en la distribución
+    y evolución.
 
-- Geomorfometría, analisis de formas del terreno y su relación con la
-  distribución de especies en sistemas montañosos y vertientes. Desde el
-  MTN al DEM
+- [Relieves litológicos y estructurales]()
 
-### Geomorfología fluvial
+  - Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies
+    corrosivas), microformas, y su relación con la distribución de
+    especies.
 
-- Hidromorfometría, hidrología computacional, hidráulica, relación con
-  fauna y flora acuática, capturas y su relevancia en la distribución y
-  evolución.
+  - Relieve granítico: el gran desconocido del mundo tropical.
 
-### Relieves litológicos
+  - Relieves estructurales: cuestas, jurásico, etc.
 
-- Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies
-  corrosivas), microformas, y su relación con la distribución de
-  especies.
+- [Geomorfología litoral]()
 
-- Relieve granítico: el gran desconocido del mundo tropical.
+  - Lítoral, costa, línea de costa.
 
-### Geomorfología litoral
+  - Dunas, distribución de la vegetación costera.
 
-- Dunas, distribución de la vegetación costera.
-
-- Percentiles/deciles de granulometría, clastos, y cómo influyen en la
-  retención de agua, la estabilidad del sustrato y la disponibilidad de
-  microhábitats, factores clave para muchas especies.
+  - Percentiles/deciles de granulometría, clastos, y cómo influyen en la
+    retención de agua, la estabilidad del sustrato y la disponibilidad
+    de microhábitats, factores clave para muchas especies.
 
 ## Referencias
 
