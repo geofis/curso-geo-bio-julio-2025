@@ -1,0 +1,129 @@
+---
+title: "Tema 1. Introducción teórica."
+subtitle: "Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete"
+author: "José Martínez"
+institute: "Universidad Autónoma de Santo Domingo (UASD)"
+date: "Actualizado: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(message = F, warning = F)
+```
+
+class: center, middle
+background-image: url(img/fondo.jpg)
+
+# Tema 1. Introducción teórica.
+## Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete
+### *José Martínez*
+
+---
+
+# Objetivos del tema
+
+- Clasificar los minerales y las rocas principales según sus características.
+
+- Relacionar propiedades físico-químicas del sustrato con procesos ecológicos.
+
+- Leer e interpretar mapas geológicos y geomorfológicos básicos.
+
+- Identificar elementos del paisaje relevantes para la biología.
+
+---
+
+# ¿Qué estudiaremos?
+
+- Clasificación básica de minerales y rocas (ígneas, sedimentarias, metamórficas),
+
+- Propiedades relevantes para la biología (porosidad, permeabilidad, composición),
+
+- Introducción a mapas geológicos (formaciones, contactos, símbolos).
+
+- Introducción a mapas geomorfológicos (formas del relieve, procesos activos).
+
+- Interpretación visual simple de imágenes satelitales para identificar procesos activos.
+
+---
+
+# Minerales: lo esencial
+
+- ¿Qué es un mineral?
+
+- Propiedades físicas (color, clivaje o exfoliación, fractura, dureza o escala de Mohs, brillo, raya, gravedad específica, propiedades ópticas, índice de refracción, birrefringencia, fluorescencia ultravioleta, características diagnósticas.).
+
+- Grandes grupos de minerales. Minerales comunes y su importancia biológica (calcita, cuarzo, yeso, arcillas).
+
+---
+
+# Rocas: tipos y ambientes
+
+- Rocas ígneas: origen y textura
+
+- Rocas sedimentarias: litificación, ambientes, fósiles
+
+- Rocas metamórficas: presión y temperatura, estructuras
+
+- Relación con suelos y hábitats
+
+---
+
+# El sustrato y la vida
+
+- Porosidad y retención de agua.
+
+- Nutrientes y liberación química.
+
+- Microhábitats, madrigueras y raíces.
+
+- Ejemplos de especies asociadas a ciertos tipos de roca o suelo.
+
+---
+
+# Introducción a los mapas geológicos
+
+- ¿Qué es un mapa geológico?
+
+- Tiempo geológico.
+
+- Formaciones, contactos, fallas y símbolos
+
+- Ejemplo simple de lectura e interpretación
+
+- Estructuras sedimentarias, estructuras tectónicas
+
+- Corte geológico
+
+---
+
+# Mapas geomorfológicos
+
+- ¿Qué muestran estos mapas?
+
+- Clasificación de formas del relieve
+
+- Procesos activos (erosión, sedimentación, movimientos de masa)
+
+- Interpretación para fines ecológicos
+
+- Formas y procesos geomorfológicos en la cartografía
+
+- Corte geomorfológico
+
+---
+
+class: center, middle
+
+# Cierre
+
+> “No se vislumbra vestigio de un principio, ni perspectiva de un fin.”  
+> — *James Hutton*
+
+---

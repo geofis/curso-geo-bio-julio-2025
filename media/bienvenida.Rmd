@@ -49,7 +49,31 @@ background-image: url(img/fondo.jpg)
 
   - Nivel básico, con énfasis en aplicaciones biológicas
   
-  - Participación activa: ¡este es un espacio para preguntar, proponer y conectar ideas!
+  - Participación activa: ¡este es un espacio para preguntar, proponer y conectar ideas! Interrumpe al profesor sin temor.
+
+---
+
+## Formulario
+
+Por favor, completa [este formulario](https://docs.google.com/forms/d/e/1FAIpQLScAwIP0FHMQifOPWLPSnTE1CdRTs5p9RwxBZt-4SGl_zpwmbQ/viewform?usp=dialog).
+
+---
+
+## Calendario de oferta de formación continua
+
+Visita [este calendario](https://calendar.google.com/calendar/u/0/embed?src=c_e2675d36ebc399b645ea939b0bfdf0156c9ed9c8805219cd1cc0ef07b82d141f@group.calendar.google.com&ctz=America/Santo_Domingo), por si te interesa la oferta de formación que ofreceré durante este verano.
+
+---
+
+## Autopresentación
+
+- Nombres, apellidos.
+
+- Formación y/o área profesional.
+
+- Municipio de residencia.
+
+- Una expectativa del curso.
 
 ---
 
@@ -89,15 +113,17 @@ background-image: url(img/fondo.jpg)
 
 - Interpretación de paisajes con fotografías aéreas, imágenes satelitales y mapas topográficos.
 
+---
+
 ### En la salida de campo:
 
-- Observación directa de unidades geológicas y formas del relieve.
+- Observación directa de Formaciones geológicas y formas del relieve.
 
 - Reconocimiento de procesos geomorfológicos activos.
 
-- Registro en hojas de campo.
+- Registro en hojas de campo y formularios electrónicos (aunque esto último dependerá de varios factores).
 
-- Colecta de muestras de mano.
+- Colectar muestras de mano.
 
 - En función de la salida de campo finalmente elegida: sección de río, perfil de playa.
 

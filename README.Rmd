@@ -58,24 +58,6 @@ if (grepl('gfm', output_format)) {
 
 ![Código QR para acceder a este portal](qr.jpg){width=50%}
 
-## Formulario
-
-Por favor, completa [este formulario](https://docs.google.com/forms/d/e/1FAIpQLScAwIP0FHMQifOPWLPSnTE1CdRTs5p9RwxBZt-4SGl_zpwmbQ/viewform?usp=dialog).
-
-
-## Calendario de oferta de formación continua
-
-Visita [este calendario](https://calendar.google.com/calendar/u/0/embed?src=c_e2675d36ebc399b645ea939b0bfdf0156c9ed9c8805219cd1cc0ef07b82d141f@group.calendar.google.com&ctz=America/Santo_Domingo), por si te interesa la oferta de formación que ofreceré durante este verano.
-
-## Autopresentación
-
-- Nombres, apellidos.
-
-- Formación y/o área profesional.
-
-- Municipio de residencia.
-
-- Una expectativa del curso.
 
 # Presentaciones de diapositivas incluidas en este repo y otros materiales:
 
@@ -87,7 +69,7 @@ Visita [este calendario](https://calendar.google.com/calendar/u/0/embed?src=c_e2
 
 ## Dirigido a ...
 
-- Estudiantes, especialmente de biología o geografía, y profesionales con interés en adquirir o mejorar sus habilidades en análisis geoespacial.
+- Estudiantes, especialmente de biología o geografía, y profesionales con interés en adquirir o mejorar sus habilidades en geociencias y técnicas de análisis geomorfológico
 
 ## Objetivos del curso
 
@@ -105,40 +87,40 @@ Las sesiones serán de 1 hora, basadas en una breve introducción de conocimient
 
 ## Teórico
 
-- **Tema 1. **
+- [**Tema 1. Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete**](`r paste0(github_pages_url_general, 'media/tema-1-intro.html')`). Clasificación básica de minerales según su composición y propiedades, identificación de tipos principales de rocas ígneas, sedimentarias y metamórficas, reconocimiento de propiedades físicas relevantes para la biología como porosidad, permeabilidad y composición química, relación entre tipo de roca y disponibilidad de nutrientes o hábitats, nociones básicas de cartografía geológica y lectura de leyendas, interpretación de mapas geológicos con énfasis en formaciones superficiales, introducción a los mapas geomorfológicos y las principales formas del relieve, lectura de símbolos y sombreado, relación entre formas del terreno y procesos ecológicos.
 
 - **Tema 2. **
 
 
-## Prácticas
+## Práctico
 
-### Mapas geológico y geomorfológico
+- [Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete](`r paste0(github_pages_url_general, 'media/tema-1-practica.html')`)
 
-- Minerales y rocas.
 
-- Intrumentos de campo y de laboratorio en geología y geomorfología.
+- Meteorización y su importancia sobre la distribución de los seres vivos
 
-- Estructuras sedimentarias, estructuras tectónicas, el tiempo en geología. Mapa geológico, corte geológico
-
-- Geomorfología, formas del relieve, procesos geomorfológicos, mapa geomorfológico, corte geomorfológico.
 
 ### Fuentes y geomorfometría digital
 
 - Fuentes de información geográfica en geología y geomorfología. ¿Cómo asociar lo que vemos en un DEM con la distribución de los seres vivos?
 
-- Geomorfometría, analisis de formas del terreno y su relación con la distribución de especies en sistemas montañosos y vertientes. Desde el MTN al DEM
+- Geomorfometría, análisis de formas del terreno y su relación con la distribución de especies en sistemas montañosos y vertientes. Desde el MTN al DEM
 
 ### Geomorfología fluvial
 
 - Hidromorfometría, hidrología computacional, hidráulica, relación con fauna y flora acuática, capturas y su relevancia en la distribución y evolución.
 
-### Relieves litológicos
+### Relieves litológicos y estructurales
 
 - Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies corrosivas), microformas, y su relación con la distribución de especies.
 
 - Relieve granítico: el gran desconocido del mundo tropical.
 
+- Relieves estructurales: cuestas, jurásico, etc.
+
 ### Geomorfología litoral
+
+- Lítoral, costa, línea de costa.
 
 - Dunas, distribución de la vegetación costera.
 

@@ -1,0 +1,132 @@
+---
+title: "Tema 1. Práctica"
+subtitle: "Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete"
+author: "José Martínez"
+institute: "Universidad Autónoma de Santo Domingo (UASD)"
+date: "Actualizado: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+class: center, middle
+background-image: url(img/fondo.jpg)
+
+# Tema 1. Introducción teórica.
+## Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete
+### *José Martínez*
+---
+
+# Objetivo de la práctica
+
+Explorar cómo los elementos del medio físico—tipo de roca, estructura del terreno, relieve— condicionan los hábitats y procesos ecológicos. Cada grupo trabajará con mapas, muestras de mano y guías, enfocando la interpretación hacia aplicaciones biológicas.
+
+---
+
+# Dinámica de trabajo
+
+- División por grupos
+
+- Trabajo con fuentes impresas y digitales:
+
+  - Mapas geológicos y geomorfológicos
+
+  - Muestras de mano
+
+  - Guías de rocas y minerales (papel y digital)
+
+- 20–30 minutos de trabajo
+
+- Cada grupo expone sus hallazgos (3–5 minutos)
+
+---
+
+# Recursos
+
+- Muestras de mano de rocas
+
+- "Microscopio" o lupa digital monocular
+
+- Mapas geológicos y geomorfológicos (impresos y [digitales](https://drive.google.com/drive/folders/1686-LF6yR29go5nc3FQsK_E_hxP74dYP?usp=drive_link))
+
+- Guía de rocas y minerales (impresa y [digital](https://drive.google.com/drive/folders/1orlvmg86kad08FznStkmYaesxaTbzAQD?usp=drive_link))
+
+- Punzones de dureza y ácido clorhídrico
+
+- Teléfonos celulares, tabletas, PC
+
+- Intrumentos sencillos de campo y de laboratorio en geología y geomorfología
+
+---
+
+# Formulario para el envío de la práctica
+
+- Visita [esta URL](https://odk.geofis.xyz/f/KXAX7AmHYEjIFbQpCM17whwGe01r3ej?st=UX6AQNfGpHkGNFUDSRNPUr8OKiPnouJu0iw9LSif1GvbE7yHVJ7VDxCCabvejE!l) para rellenar el formulario de entrega, uno por grupo.
+
+- O accede usando este código QR.
+
+<img src="qr-practica-1.jpg" width="400px">
+
+
+---
+
+# Actividades por grupos
+
+## Grupo 1
+
+- Clasificación visual de muestras de roca
+
+- Relación entre propiedades físicas y hábitats (pH, drenaje, refugio)
+
+## Grupo 2
+
+- Lectura de mapa geológico
+
+- Identificación de formaciones
+
+- Implicaciones ecológicas: nutrientes, textura del suelo
+
+---
+
+# Actividades por grupos
+
+## Grupo 3
+
+- Análisis de mapa geomorfológico
+
+- Identificación de formas del relieve
+
+- ¿Cómo actúan como filtros ecológicos o corredores?
+
+## Grupo 4
+
+- Observación de imágenes satelitales en el celular, tableta o PC. Se recomiendan aquellos lugares donde se observen procesos activos. Pregunta al profesor.
+
+- Identificación de procesos activos (erosión, acumulación).
+
+- Relación con distribución de vegetación o fauna
+
+---
+
+## Grupo 5
+
+- Discusión dirigida: ¿qué tipo de sustrato o relieve favorecería la especie X?
+
+- Proponer hipótesis ecológicas a partir de la información disponible
+
+---
+
+class: center, middle
+
+
+> "Interpretar el medio físico es el primer paso para entender los patrones de distribución de los seres."
+
+Yo, yo mimitico.
