@@ -60,7 +60,22 @@ utilizarán herramientas de mesa y digitales provistas por el profesor.
   relieve, lectura de símbolos y sombreado, relación entre formas del
   terreno y procesos ecológicos.
 
-- **Tema 2. **
+- [**Tema 2. Meteorización y su importancia sobre la distribución de los
+  seres
+  vivos**](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-2-intro.html).
+  Estudio de los procesos de meteorización física y química como
+  factores fundamentales en la desintegración y alteración de las rocas,
+  identificación de mecanismos como gelifracción, exfoliación,
+  disolución, oxidación e hidrólisis, comprensión del regolito como
+  producto intermedio entre la roca madre y el suelo, descripción de los
+  horizontes del perfil edáfico y su relación con la biota, análisis de
+  variables que regulan la meteorización (litología, clima, relieve,
+  tiempo, actividad biológica), conexión entre el tipo de meteorización
+  y la disponibilidad de nutrientes, retención de agua y establecimiento
+  de especies, casos ecológicos como vegetación sobre suelos
+  serpentínicos o colonización de taludes jóvenes, implicaciones
+  geomorfológicas de la meteorización diferencial y su efecto sobre el
+  paisaje y la distribución de hábitats.
 
 ## Práctica
 
@@ -68,8 +83,14 @@ utilizarán herramientas de mesa y digitales provistas por el profesor.
   Fuentes, cartografía, técnicas de campo y de
   gabinete](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-1-practica.html)
 
-- \[Meteorización y su importancia sobre la distribución de los seres
-  vivos\]
+- [Meteorización y su importancia sobre la distribución de los seres
+  vivos](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-2-intro.html)
+
+  - Procesos de meteorización física y química, su relación con la
+    formación de suelos y hábitats, identificación de tipos de
+    meteorización en campo y en laboratorio, importancia de la
+    meteorización en la disponibilidad de nutrientes y hábitats para la
+    biota.
 
 - [Fuentes y geomorfometría digital]()
 
