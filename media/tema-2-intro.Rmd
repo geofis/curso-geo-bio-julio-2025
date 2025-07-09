@@ -1,0 +1,220 @@
+---
+title: "Tema 2. Introducción teórica."
+subtitle: "Meteorización y su importancia sobre la distribución de los seres vivos"
+author: "José Martínez"
+institute: "Universidad Autónoma de Santo Domingo (UASD)"
+date: "Actualizado: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(message = F, warning = F)
+```
+
+class: center, middle
+background-image: url(img/fondo.jpg)
+
+# Tema 2. Introducción teórica.
+## Meteorización y su importancia sobre la distribución de los seres vivos
+### *José Martínez*
+
+---
+
+# Objetivos del tema
+
+- Comprender los procesos de meteorización mecánica y química.
+
+- Reconocer productos de la meteorización y su distribución espacial.
+
+- Relacionar el tipo de meteorización con la formación de suelos y su influencia ecológica.
+
+- Interpretar el regolito y el perfil del suelo en relación con la vida.
+
+---
+
+# ¿Qué estudiaremos?
+
+- Meteorización mecánica y química
+
+- Tipos de agentes y procesos
+
+- Productos de meteorización
+
+- Formación de regolito y perfil del suelo
+
+- Influencias ecológicas
+
+---
+
+# Meteorización: concepto
+
+- Desintegración física y descomposición química de las rocas en la superficie.
+
+- Primer paso en la formación del suelo y liberación de nutrientes.
+
+- Actúa en conjunto con erosión y transporte.
+
+---
+
+# Meteorización mecánica
+
+- Fragmentación sin cambio químico.
+
+- Procesos principales:
+
+  - Gelifracción (expansión del agua al congelarse)
+
+  - Descompresión o exfoliación
+
+  - Expansión térmica
+
+  - Actividad biológica (raíces, excavación)
+
+(ver páginas 177–178 de Tarbuck y Lutgens, 2005)
+
+---
+
+# Meteorización química
+
+- Alteración de la composición mineral.
+
+- Procesos principales:
+
+  - Disolución
+
+  - Oxidación
+
+  - Hidrólisis
+
+(ver páginas 180–183 de Tarbuck y Lutgens, 2005)
+
+---
+
+# Hidrólisis
+
+- Reacción con agua que altera minerales como feldespatos y olivino.
+
+- Forma arcillas y libera cationes útiles para la biota.
+
+(ver páginas 182 y siguientes de Tarbuck y Lutgens, 2005)
+
+---
+
+# Capacidad de intercambio catiónico
+
+- La CIC es una medida de la capacidad del suelo o del regolito para retener y liberar cationes nutrientes como Ca²⁺, Mg²⁺, K⁺, y NH₄⁺.
+
+- Se relaciona con la composición mineralógica, especialmente con la presencia de arcillas y materia orgánica.
+
+- Una CIC alta permite mayor fertilidad potencial, mientras que una CIC baja indica menor retención de nutrientes.
+
+- Factores como el tipo de meteorización, el pH y el grado de lixiviación afectan la CIC.
+
+(ver Tarbuck y Lutgens, 2005, páginas 184–185)
+
+
+# Productos de la meteorización
+
+- Minerales secundarios (arcillas, óxidos)
+
+- Regolito: manto suelto sobre la roca madre
+
+(ver figura 7.1, página 163 de Anderson y Anderson, 2010)
+
+- Suelo: parte superior del regolito, con materia orgánica y actividad biológica
+
+---
+
+# Reguladores de la meteorización
+
+- Clima: agua y temperatura
+
+- Litología: composición mineral
+
+- Relieve: pendiente y drenaje
+
+- Tiempo de exposición
+
+- Actividad biológica
+
+(ver páginas 185–186 de Tarbuck y Lutgens, 2005)
+
+---
+
+# Meteorización diferencial
+
+- Rocas distintas se alteran a distintas velocidades
+
+- Genera paisajes con formas singulares
+
+- Controla microhábitats y nichos ecológicos
+
+(ver figura 7.3, página 165 de Anderson y Anderson, 2010)
+
+---
+
+# Perfil del suelo
+
+- Horizonte O: materia orgánica
+
+- Horizonte A: mezcla de minerales y materia orgánica
+
+- Horizonte B: acumulación de minerales iluviales
+
+- Horizonte C: regolito no consolidado
+
+- Horizonte R: roca madre
+
+(ver páginas 186–188 de Tarbuck y Lutgens, 2005)
+
+---
+
+# Meteorización y vida
+
+- Provisión de nutrientes (Ca, K, Fe, etc.)
+
+- Retención de humedad y aireación
+
+- Soporte físico para raíces
+
+- Hábitat para microorganismos
+
+(ver cuadro de factores edáficos, página 188 de Tarbuck y Lutgens, 2005)
+
+---
+
+# Ejemplos ecológicos
+
+- Vegetación serpentinícola (ver suelo sobre serpentinita)
+
+- Selvas tropicales sobre suelos meteorizados ricos en óxidos de Fe y Al
+
+- Comunidades pioneras en regolito joven (taludes, depósitos recientes)
+
+- Vegetación asociada a deslizamientos
+
+---
+
+# Meteorización y geomorfología
+
+- Afecta la estabilidad del terreno (movimientos en masa)
+
+- Crea condiciones favorables o restrictivas para ciertas especies
+
+- Interacción con erosión y transporte modula el paisaje
+
+---
+
+class: center, middle
+
+# Cierre
+
+> "La superficie terrestre es el resultado de una lucha continua entre la roca y el agua."
+> — *Adaptado de Anderson y Anderson (2010)*

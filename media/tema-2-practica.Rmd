@@ -1,0 +1,118 @@
+---
+title: "Tema 2. Práctica"
+subtitle: "Meteorización y su importancia sobre la distribución de los seres vivos"
+author: "José Martínez"
+institute: "Universidad Autónoma de Santo Domingo (UASD)"
+date: "Actualizado: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+class: center, middle
+background-image: url(img/fondo.jpg)
+
+# Tema 2. Práctica
+## Meteorización y su importancia sobre la distribución de los seres vivos
+### *José Martínez*
+
+---
+
+# Objetivo de la práctica
+
+Reconocer evidencias de meteorización en imágenes aéreas y discutir cómo los productos y procesos de meteorización condicionan la presencia, abundancia o ausencia de formas de vida en distintos paisajes.
+
+---
+
+# Dinámica de trabajo
+
+- Grupos de trabajo
+
+- Cada grupo analiza una o más imágenes aéreas
+
+- Actividad guiada:
+
+  - Identificar tipos de meteorización (física o química)
+  
+  - Relacionar con cobertura vegetal o presencia de hábitat
+  
+- Discusión e hipótesis ecológicas
+
+- Exposición de resultados por grupo (3–5 minutos)
+
+---
+
+# Recursos
+
+- Fotografías aéreas.
+
+- Mapas temáticos geológicos
+
+- Lupa digital (opcional)
+
+- Guías impresas o digitales
+
+- Teléfonos o computadoras
+
+---
+
+# Actividad por grupos
+
+## Grupo 1
+
+- Interpretar imágenes aéreas para identificar zonas con roca expuesta, depósitos coluviales o evidencia de movimientos en masa.
+
+- Analizar cómo estos patrones morfológicos se asocian a la cobertura vegetal o su ausencia.
+
+- Formular hipótesis sobre cómo la estabilidad del sustrato y el grado de meteorización condicionan la distribución de hábitats y la colonización vegetal.
+
+---
+
+## Grupo 2
+
+- Identificar patrones de color y textura en imágenes aéreas que sugieran procesos de meteorización química (e.g. pátinas, alteración de materiales, drenajes coloreados).
+
+- Interpretar la posible relación entre estos procesos y la presencia de suelos más desarrollados o coberturas vegetales densas.
+
+---
+
+## Grupo 3
+
+- Comparar áreas con diferente intensidad de alteración superficial (zonas claras vs oscuras, suelos expuestos vs cubiertos).
+
+- Inferir cómo la intensidad de meteorización puede modular el tipo de vegetación o cobertura biótica observada.
+
+---
+
+## Grupo 4
+
+- Identificar sectores con acumulación aparente de regolito o materiales sueltos (e.g. conos de deyección, abanicos aluviales, laderas erosionadas).
+
+- Relacionar estas acumulaciones con las posibles etapas de sucesión ecológica o instalación de especies oportunistas.
+
+---
+
+## Grupo 5
+
+- Seleccionar una imagen que muestre un claro contraste litológico o morfológico (e.g. cambio abrupto en color o textura del terreno).
+
+- Proponer hipótesis sobre la influencia del tipo de roca o del proceso de meteorización predominante en la distribución de comunidades bióticas.
+
+
+---
+
+# Formulario para entrega
+
+- Visita [este formulario]() para registrar los resultados de tu grupo.
+
+- O escanea el código QR provisto en el aula.
+
+---
