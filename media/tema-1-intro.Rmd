@@ -53,6 +53,14 @@ background-image: url(img/fondo.jpg)
 
 ---
 
+# Geología y geomorfología
+
+- Geología: Ciencia que estudia la composición, estructura y evolución de la Tierra.
+
+- Geomorfología: Rama de la geografía o geología que analiza las formas del relieve terrestre y los procesos que las modelan.
+
+---
+
 # El interior del planeta, tectónica de placas
 
 (ver páginas 33 y siguientes)
@@ -125,7 +133,7 @@ background-image: url(img/fondo.jpg)
 
 - ¿Qué es un mapa geológico?
 
-- Tiempo geológico (ver página 255 y siguientes de Tarbuck y Lutgens, 2005)
+- Tiempo geológico, dataciones (ver página 255 y siguientes de Tarbuck y Lutgens, 2005)
 
 - Unidad (agrupación de material rocoso basada en alguna propiedad o atributo, que puede definirse en base a la litología—unidad litoestratigráfica—o por la continuidad o sus fósiles—unidad bioestratigráfica), Formación (características litológicas distintivas, ocupa una posición en la unidad, y se diferencia de las rocas adyacentes), Miembros (subdivisiones de una formación, con características litológicas particulares).
 
@@ -152,6 +160,13 @@ background-image: url(img/fondo.jpg)
 - Formas y procesos geomorfológicos en la cartografía
 
 - Corte geomorfológico
+
+---
+
+class: center, middle
+
+# Introducir/discutir las actividades por grupos
+
 
 ---
 

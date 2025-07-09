@@ -43,7 +43,7 @@ Explorar cómo los elementos del medio físico—tipo de roca, estructura del te
 
   - Guías de rocas y minerales (papel y digital)
 
-- 20–30 minutos de trabajo
+- 1 hora de trabajo
 
 - Cada grupo expone sus hallazgos (3–5 minutos)
 
@@ -78,7 +78,7 @@ Explorar cómo los elementos del medio físico—tipo de roca, estructura del te
 
 # Formulario para el envío de la práctica
 
-- Visita [esta URL](https://odk.geofis.xyz/f/KXAX7AmHYEjIFbQpCM17whwGe01r3ej?st=UX6AQNfGpHkGNFUDSRNPUr8OKiPnouJu0iw9LSif1GvbE7yHVJ7VDxCCabvejE!l) para rellenar el formulario de entrega, uno por grupo.
+- Visita [esta URL](https://odk.geofis.xyz/f/KXAX7AmHYEjIFbQpCM17whwGe01r3ej?st=Nxw0YJyRlIzTw$FbxjU!$ncaIvoz4ThokkbB2PXcw1A3PVFCgDjBdlvM8k5SmZjt) para rellenar el formulario de entrega, uno por grupo.
 
 - O accede usando este código QR
 
@@ -101,7 +101,7 @@ Explorar cómo los elementos del medio físico—tipo de roca, estructura del te
 
 - Identificación de formaciones
 
-- Implicaciones ecológicas: nutrientes, textura del suelo
+- Implicaciones ecológicas. Aunque es difícil predecirlo sólo desde el mapa geológico, y sin haber estudiado aún meteorización (tema 2), se podrían presuponer las condiciones de nutrientes y textura del suelo, cuyas implicaciones son determinantes en la conformación de los ecosistemas.
 
 ---
 

@@ -36,9 +36,9 @@ Versión HTML (quizá más legible),
 
 ## Metodología común
 
-Las sesiones serán de 2 horas; en cada una, se hará una breve
-introducción de conocimientos, seguida de una sesión práctica. Se
-utilizarán herramientas de mesa y digitales provistas por el profesor.
+Las sesiones serán de 2 horas; en cada una, se hará una introducción de
+conocimientos, seguida de una sesión práctica. Se utilizarán
+herramientas de mesa y digitales provistas por el profesor.
 
 # Contenido
 
@@ -108,7 +108,11 @@ utilizarán herramientas de mesa y digitales provistas por el profesor.
     fauna y flora acuática, capturas y su relevancia en la distribución
     y evolución.
 
-- [Relieves litológicos y estructurales]()
+- [Vertientes, piedmontes, movimientos en masa, relieves litológicos y
+  estructurales]()
+
+  - Relieves de vertiente, piedmontes, movimientos en masa: tipos,
+    factores que los favorecen
 
   - Karst: macroformas (cañones, dolinas, poljes, mogotes, superficies
     corrosivas), microformas, y su relación con la distribución de
