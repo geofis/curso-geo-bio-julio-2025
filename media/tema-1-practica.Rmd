@@ -51,28 +51,27 @@ Explorar cómo los elementos del medio físico—tipo de roca, estructura del te
 
 # Recursos
 
+- [Carpeta Drive "geo114"](https://drive.google.com/drive/folders/1orlvmg86kad08FznStkmYaesxaTbzAQD?usp=drive_link), conteniendo libros, manuales, guías y, muy importante, muchos mapas (ver siguiente diapositiva)
+
+- Pregunta por cada una de estos recursos en el aula:
+  - Muestras de mano de rocas (aula)
+  - "Microscopio" o lupa digital monocular (aula). Hay una con pantalla, y otra en la mesa del profesor. También cuentan con dos lupas monoculares portátiles.
+  - Guía de rocas y minerales (impresa y [digital](https://drive.google.com/file/d/1KjxU6PigXEwXHR8GcirQJBvBvtZiTWIa/view?usp=drive_link))
+  - Punzones de dureza y ácido clorhídrico (aula)
+  - Teléfonos celulares, tabletas, PC (propios)
+  - Otros instrumentos y materiales demostrativos usados en campo y de laboratorio en geología y geomorfología, como por ejemplo, piqueta de geología, muestras identificadas de rocas, brujulas, etc
+
+
+---
+
+# Recursos (cont.)
+
 - Mapas geológicos y geomorfológicos (impresos y digitales):
   - Mapas geológicos en distintos formatos y escalas. JPG georreferenciados (con archivo Worldfile, `.jpw`), GeoTIFF (ya georreferenciados), ambos útiles en QGIS y KMZ (ideales para Google Earth). Algunos geológicos escala 1:50,000 (de Ocoa), se encuentran en la carpeta [`geo50k`](https://drive.google.com/drive/folders/1_J8Bw_K1Pnq-foJ1lh-s-fsFO9UMVWN1?usp=drive_link).
   - Mapa geológico escala 1:250,000, carpeta [`geo250k`](https://drive.google.com/drive/folders/1Bwh4_PpPlWTL3Lbz4O4fsIwnrXesXXFu?usp=drive_link)
   - Mapas geomorfológicos seleccionados, formato GeoPDF, carpeta [`geom100k`](https://drive.google.com/drive/folders/1qNFLHs3e7OyXXu2IKRQwitUxVHgR38kT?usp=drive_link)
   - Mapas geológicos para celulares, usando la aplicación SW Maps, específicamente los de formato buscar archivos formato [geo50k-geopdf-geotiff-mbtiles](https://drive.google.com/drive/folders/1686-LF6yR29go5nc3FQsK_E_hxP74dYP?usp=drive_link)
   - Toda la cartografía geotemática del país (sólo en formato GeoPDF), desde la [web del Servicio Geológico Nacional](https://sgn.gob.do/). Esto incluye mapas geológicos y sus correspondientes memorias, mapas geomorfológicos y sus correspondientes memorias, así como información de hidrogeología, recursos minerales, geotermia, geoquímica, geofísica y de procesos activos.
-
----
-
-# Recursos (cont.)
-
-- Muestras de mano de rocas
-
-- "Microscopio" o lupa digital monocular
-
-- Guía de rocas y minerales (impresa y [digital](https://drive.google.com/file/d/1KjxU6PigXEwXHR8GcirQJBvBvtZiTWIa/view?usp=drive_link))
-
-- Punzones de dureza y ácido clorhídrico
-
-- Teléfonos celulares, tabletas, PC
-
-- Intrumentos sencillos de campo y de laboratorio en geología y geomorfología
 
 ---
 

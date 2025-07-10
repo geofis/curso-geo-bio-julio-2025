@@ -28,7 +28,7 @@ background-image: url(img/fondo.jpg)
 
 # Objetivo de la práctica
 
-Reconocer evidencias de meteorización en imágenes aéreas y discutir cómo los productos y procesos de meteorización condicionan la presencia, abundancia o ausencia de formas de vida en distintos paisajes.
+Reconocer evidencias de meteorización química y física en fotografías aéreas, y discutir cómo los productos y procesos de meteorización condicionan la presencia, abundancia o ausencia de formas de vida en distintos ambientes.
 
 ---
 
@@ -36,7 +36,7 @@ Reconocer evidencias de meteorización en imágenes aéreas y discutir cómo los
 
 - Grupos de trabajo
 
-- Cada grupo analiza una o más imágenes aéreas
+- Cada grupo analiza una o más fotografías aéreas usando visión estereoscópica.
 
 - Actividad guiada:
 
