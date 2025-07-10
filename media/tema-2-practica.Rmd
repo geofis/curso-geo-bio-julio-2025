@@ -40,7 +40,7 @@ Reconocer evidencias de meteorización química y física en fotografías aérea
 
 - Actividad guiada:
 
-  - Identificar tipos de meteorización (física o química)
+  - Identificar tipos de meteorización (física o química). Consideremos por un momento, y para los fines de un curso introductorio, que la meteorización , al menos en este punto, como evidencia de mete
   
   - Relacionar con cobertura vegetal o presencia de hábitat
   
@@ -52,11 +52,13 @@ Reconocer evidencias de meteorización química y física en fotografías aérea
 
 # Recursos
 
-- Fotografías aéreas.
+- Fotografías aéreas
+
+- Estereoscopios de bolsillo
 
 - Mapas temáticos geológicos y geomorfológicos
 
-- Lupa digital (opcional, no es de gran utilidad en este caso, pero ahí estará)
+- Lupas digitales (opcional, no es de gran utilidad en este caso, pero ahí estarán)
 
 - Guías impresas o digitales
 
@@ -66,17 +68,19 @@ Reconocer evidencias de meteorización química y física en fotografías aérea
 
 # Instrucción general
 
-1. Tomen un "par estereoscópico". Son dos fotografías (aéreas y verticales en nuestro caso) que se superponen parcialmente y permiten, al ser observadas con un estereoscopio, percibir el relieve en tres dimensiones gracias a la visión binocular y el fenómeno del paralaje.
+1. Tomen un "par estereoscópico". Son dos fotografías (aéreas y verticales en nuestro caso) que se superponen parcialmente y permiten, al ser observadas con un estereoscopio, percibir el relieve en tres dimensiones gracias a la visión binocular y la propiedad del paralaje.
 
 2. Oriéntenlas en la dirección correspondiente y observarlas/intepretarlas con el estereoscopio de bolsillo. Seguir instrucciones en el aula, practicar para ganar destreza. Todos los miembros del grupo debería intentar la visión estereoscópica, pero por cuestiones de probabilidades, habrá una o varias personas en el grupo que adquirirán esta destreza más rápidamente; aprovechen esas capacidades.
 
 ---
 
-3. Identifiquen los elementos que se piden para su grupo elegido.
+3. Identifiquen los elementos que se piden para su grupo elegido. Intenten, si pueden, dibujarlos sobre un sobre papel vegetal colocado encima de la foto e inmovilizado (usar *tape* para fijarlo). Escriban sobre el papel vegetal el número de rollo, la faja y el número de la foto que se está interpretando.
 
 4. Con el teléfono, tomar "foto de la foto" analizada y anotarla de acuerdo con la interpretación realizada y "acordada" (el mito del consenso no existe, pero na', discutan). Usen códigos alfabéticos, numéricos o alfanuméricos; si se puede, usen geometrías de polígonos y lineas que puedan referirse en el texto/pie de la "foto de la foto". Si lo desean, podrían colocar papel vegetal encima de la foto y dibujar sobre éste con lápiz, pero el papel vegetal, al ser algo opaco, a algunas personas les dificulta la visión estereoscópica.
 
-> Precauciones. Las fotos se pueden y, de hecho, se deben plegar, pero plegaras hasta el punto de hacerles dobleces, porque quedarán marcas permanentes que las degradarán. No escriben sobre las fotos.
+5. Interpretar posibles relaciones, consecuencias o implicaciones de lo observado respecto de hábitats, ecosistemas o distribución de seres vivos. Más detalles en los mandatos guía de cada grupo.
+
+> Precauciones. Al usar el estereoscopio de bolsillo, para poder ver tridimensionalmente toda el área de superposición, las fotos se deben plegar. Sin embargo, eviten plegarlas hasta el punto de hacerles dobleces, porque quedarán con marcas permanentes que las degradarán. No escriban sobre las fotos.
 
 ---
 
@@ -84,51 +88,49 @@ Reconocer evidencias de meteorización química y física en fotografías aérea
 
 ## Grupo 1
 
-- Interpretar fotografías aéreas para identificar zonas con roca expuesta. Algo más difícil, pero posible, consiste en explorar fotografías aéreas de escala grande (fotografías aéreas detalladas), identificar depósitos de vertientes o que hayan experimentado poco desplazamiento (se les llama "depósitos coluviales"), o evidencia de deslizamientos (se les llama técnicamente y de forma genérica "movimientos en masa").
+1. Interpretar fotografías aéreas para **identificar/dibujar zonas con roca expuesta**. También pueden explorar fotografías aéreas para **identificar/dibujar depósitos de vertientes** o que hayan experimentado poco desplazamiento (se les llama "depósitos coluviales"), o evidencia de deslizamientos (se les llama técnicamente y de forma genérica "movimientos en masa"). Describe estas áreas usando dimensiones
 
-- Analizar cómo estos patrones morfológicos se asocian a la cobertura vegetal o su ausencia.
-
-- Formular hipótesis sobre cómo la estabilidad del sustrato y el grado de meteorización condicionan la distribución de hábitats y la colonización vegetal.
+2. Formular preguntas e hipótesis sobre cómo la **estabilidad del sustrato y el grado de meteorización** condicionan la distribución de hábitats y la colonización vegetal.
 
 ---
 
 ## Grupo 2
 
-- Identificar patrones de brillo/saturación y textura en fotos aéreas que sugieran procesos de meteorización física o química (e.g. pátinas, alteración de materiales, drenajes coloreados).
+- Identifiquen/dibujen patrones de **brillo/saturación y textura** en fotos aéreas que sugieran procesos de **meteorización física o química** (e.g. alteración de materiales, drenajes coloreados).
 
-- Interpretar la posible relación entre estos procesos y la presencia de suelos más desarrollados o coberturas vegetales densas.
+- Formular preguntas de investigación e hipótesis sobre la posible **relación entre estos procesos y la presencia de suelos más desarrollados o coberturas vegetales densas**.
 
 ---
 
 ## Grupo 3
 
-- Comparar áreas con diferente intensidad de alteración superficial (zonas claras vs oscuras, suelos expuestos vs cubiertos).
+- Identifiquen/dibujen y comparen áreas con diferente grado de cobertura arbórea. Identifiquen/dibujen zonas claras vs oscuras, suelos expuestos sin vegetación vs suelos cubiertos de vegetación. También pueden intentar identificar, en áreas sin cobertura arbórea, dónde la roca fresca esta expuesta (sin suelo) y dónde no lo está (esto requiere algo de destreza y un poco de imaginación, pero en las áreas de karst es relativamente fácil).
 
-- Inferir cómo la intensidad de meteorización puede modular el tipo de vegetación o cobertura biótica observada.
+- Inferir, a partir de los patrones identificados, cómo la intensidad de meteorización puede modular el tipo de vegetación o cobertura biótica observada. Formular preguntas de investigación e hipótesis.
 
 ---
 
 ## Grupo 4
 
-- Identificar sectores con acumulación de materiales al pie de las montañas. Aunque los veremos más adelante, este tipo de morfologías se les conoce como conos de deyección y abanicos aluviales.
+- Identifiquen/dibujen sectores con **acumulación de materiales al pie de las montañas o valle fluviales**. Aunque los veremos más adelante, este tipo de morfologías se les conoce como conos de deyección y abanicos aluviales.
 
-- Relacionar estas acumulaciones con las posibles etapas de sucesión ecológica o instalación de especies oportunistas.
+- Relacionar estas acumulaciones con las posibles etapas de sucesión ecológica o instalación de especies oportunistas. Formular preguntas de investigación e hipótesis.
 
 ---
 
 ## Grupo 5
 
-- Seleccionar una imagen que muestre un claro contraste litológico o morfológico (e.g. cambio abrupto en color o textura del terreno).
+- Seleccionar un par estereoscópico que muestre un para identificar/dibujar un **área de contraste topográfico que pueda atribuirse a variación de la litología o, simplemente identifiquen un área de fuerte cambio morfológico** (e.g. cambio abrupto en color o textura del terreno, cambio o ruptura de pendiente). Identifiquen/dibujen este contraste.
 
-- Proponer hipótesis sobre la influencia del tipo de roca o del proceso de meteorización predominante en la distribución de comunidades bióticas.
+- Formular preguntas y proponer hipótesis sobre la influencia del tipo de roca o del proceso de meteorización predominante en la distribución de comunidades bióticas.
 
 
 ---
 
 # Formulario para entrega
 
-- Visita [este formulario]() para registrar los resultados de tu grupo.
+- Visita [este formulario](https://odk.geofis.xyz/f/5gNqc3mrQk4WMd3f6fK6bdnRqqyMtbX?st=zgbT52ZukZly2mTU!ZlKu0LxEb4m3rAfcBO2o5prveAfPtVwXqqI3PSm4IRyWgVe) para registrar los resultados de tu grupo.
 
-- O escanea el código QR provisto en el aula.
+<!-- - O escanea el código QR provisto en el aula. -->
 
 ---
