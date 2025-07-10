@@ -95,7 +95,7 @@ Las sesiones serán de 2 horas; en cada una, se hará una introducción de conoc
 - [Minerales, rocas, formas del relieve, y su relación con la biota. Fuentes, cartografía, técnicas de campo y de gabinete](`r paste0(github_pages_url_general, 'media/tema-1-practica.html')`)
 
 
-- [Meteorización y su importancia sobre la distribución de los seres vivos](`r paste0(github_pages_url_general, 'media/tema-2-intro.html')`)
+- [Meteorización y su importancia sobre la distribución de los seres vivos](`r paste0(github_pages_url_general, 'media/tema-2-practica.html')`)
 
   - Procesos de meteorización física y química, su relación con la formación de suelos y hábitats, identificación de tipos de meteorización en campo y en laboratorio, importancia de la meteorización en la disponibilidad de nutrientes y hábitats para la biota.
 

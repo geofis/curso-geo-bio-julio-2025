@@ -84,7 +84,7 @@ herramientas de mesa y digitales provistas por el profesor.
   gabinete](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-1-practica.html)
 
 - [Meteorización y su importancia sobre la distribución de los seres
-  vivos](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-2-intro.html)
+  vivos](https://geofis.github.io/curso-geo-bio-julio-2025/media/tema-2-practica.html)
 
   - Procesos de meteorización física y química, su relación con la
     formación de suelos y hábitats, identificación de tipos de
