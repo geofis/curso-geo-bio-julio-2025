@@ -1,0 +1,138 @@
+---
+title: "Tema 2. Práctica"
+subtitle: "Meteorización y morfosistemas, importancia sobre la distribución de los seres vivos"
+author: "José Martínez"
+institute: "Universidad Autónoma de Santo Domingo (UASD)"
+date: "Actualizado: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+class: center, middle
+background-image: url(img/fondo.jpg)
+
+# Tema 2. Práctica
+## Meteorización y su importancia sobre la distribución de los seres vivos
+### *José Martínez*
+
+---
+
+# Objetivo de la práctica
+
+Reconocer evidencias de meteorización química y física en fotografías aéreas, y discutir cómo los productos y procesos de meteorización condicionan la presencia, abundancia o ausencia de formas de vida en distintos ambientes.
+
+---
+
+# Dinámica de trabajo
+
+- Grupos de trabajo
+
+- Cada grupo analiza una o más fotografías aéreas usando visión estereoscópica.
+
+- Actividad guiada:
+
+  - Identificar tipos de meteorización (física o química). Consideremos por un momento, y para los fines de un curso introductorio, que la meteorización , al menos en este punto, como evidencia de mete
+  
+  - Relacionar con cobertura vegetal o presencia de hábitat
+  
+- Discusión e hipótesis ecológicas
+
+- Exposición de resultados por grupo (3–5 minutos)
+
+---
+
+# Recursos
+
+- Fotografías aéreas
+
+- Estereoscopios de bolsillo
+
+- Mapas temáticos geológicos y geomorfológicos
+
+- Lupas digitales (opcional, no es de gran utilidad en este caso, pero ahí estarán)
+
+- Guías impresas o digitales
+
+- Teléfonos o computadoras (importante para anotar fotos)
+
+---
+
+# Instrucción general
+
+- Paso 1. Tomen un "par estereoscópico". Son dos fotografías (aéreas y verticales en nuestro caso) que se superponen parcialmente y permiten, al ser observadas con un estereoscopio, percibir el relieve en tres dimensiones gracias a la visión binocular y la propiedad del paralaje. Las líneas de vuelo (escritas como "FAJA" en uno de los cintillos laterales de cada fotograma), y los puntos centrales de cada foto (coinciden con el rótulo "N°" impreso sobre la foto), están representados en los archivos KMZ (extensión `.kmz`) y GeoPackage (extensión `.gpkg`) del directorio de este mismo repo [`foto-indice-marena`](foto-indice-marena/), y en el Drive [`geo114`](https://drive.google.com/drive/folders/1pBpz7zlx9JCmtj_PGXp24YOFO12dGcIJ?usp=drive_link); descarguen esos archivos y represéntenlos con Google Earth (archivos formato `.kmz`), QGIS (archivos formato `.kmz` o `.gpkg`), o SW Maps en el teléfono (archivos formato `.gpkg`; en SW Maps, es necesario localizar la carpeta donde se alojan los mapas, y colocarlos allí; en Android, suele ser la siguiente ruta si se trata de almacenamiento interno: `/storage/emulated/0/Android/media/np-com.softwel.swmaps/Maps/kml` o `Android/media/np-com.softwel.swmaps/Maps/kml`).
+
+  - **Nota**: La escala nomimal de las fotografías aéreas es, aproximadamente, 1:40,000.
+
+- Paso 2. Oriéntenlas en la dirección correspondiente y observarlas/intepretarlas con el estereoscopio de bolsillo. Seguir instrucciones en el aula, practicar para ganar destreza. Todos los miembros del grupo debería intentar la visión estereoscópica, pero por cuestiones de probabilidades, algunas personas en el grupo adquirirán esta destreza más rápidamente; aprovechen esas capacidades.
+
+---
+
+- Paso 3. Identifiquen los elementos que se piden para su grupo elegido. Intenten, si pueden, dibujarlos sobre un sobre papel vegetal colocado encima de la foto e inmovilizado (usar *tape* para fijarlo). Escriban sobre el papel vegetal el número de rollo, la faja y el número de la foto que se está interpretando.
+
+- Paso 4. Con el teléfono, tomar "foto de la foto" analizada y anotarla de acuerdo con la interpretación realizada y "acordada" (el mito del consenso no existe, pero na', discutan). Usen códigos alfabéticos, numéricos o alfanuméricos; si se puede, usen geometrías de polígonos y lineas que puedan referirse en el texto/pie de la "foto de la foto". Si lo desean, podrían colocar papel vegetal encima de la foto y dibujar sobre éste con lápiz, pero tener presente que el papel vegetal, al ser algo opaco, a algunas personas les dificulta la visión estereoscópica.
+
+- Paso 5. Interpretar posibles relaciones, consecuencias o implicaciones de lo observado respecto de hábitats, ecosistemas o distribución de seres vivos. Formular hipótesis y preguntas de investigación. Más detalles en los mandatos guía de cada grupo.
+
+> Precauciones. Al usar el estereoscopio de bolsillo, para poder ver tridimensionalmente toda el área de superposición, las fotos se deben plegar. Sin embargo, eviten plegarlas hasta el punto de hacerles dobleces, porque quedarán con marcas permanentes que las degradarán. No escriban sobre las fotos.
+
+---
+
+# Actividad por grupos
+
+## Grupo 1. Meteorización
+
+- Interpretar fotografías aéreas para identificar/dibujar/describir zonas con roca expuesta, donde asumiremos que está ocurriendo alguna forma de meteorización física o química. Para esta tarea se pueden ayudar del brillo/saturación y textura en la foto, o áreas donde haya contrastes de claros vs oscuros (posibles suelos expuestos sin vegetación vs suelos cubiertos de vegetación). Describan morfométricamente, es decir, usando formas ("alargada", "en forma de") y dimensiones, e indiquen ubicación relativa en la foto (derecha/izquierda/arriba/abajo es válido, siempre que se indique la orientación de la foto) usando rótulos alfabéticos, numéricos o alfanuméricos.
+
+- Formulen preguntas e hipótesis sobre el posible origen de los procesos/elementos identificados y descritos, su  relación con la conformación hábitats y/o ecosistemas, así con la potencial influencia de estos elementos sobre la distribución de los seres vivos.
+
+---
+
+## Grupo 2. Geomorfología fluvial
+
+
+- Identifiquen/dibujen/describir patrones que sugieran procesos fluviales activos, o morfologías propias de los morfosistemas fluviales, como terrazas, llanuras aluviales, elementos de las llanuras aluviales (lagunas de decantación, lagunas *oxbow lake*), islas/médanos, bancos laterales, entre otros. Se vale identificar canales/drenajes/*talwegs*, pero estos son relativamente fáciles. Describan morfométricamente, es decir, usando formas ("alargada", "en forma de") y dimensiones, e indiquen ubicación relativa en la foto (derecha/izquierda/arriba/abajo es válido, siempre que se indique la orientación de la foto) usando rótulos alfabéticos, numéricos o alfanuméricos.
+
+- Formulen preguntas e hipótesis sobre el posible origen de los procesos/elementos identificados y descritos, su  relación con la conformación hábitats y/o ecosistemas, así con la potencial influencia de estos elementos sobre la distribución de los seres vivos.
+
+---
+
+## Grupo 3. Vertientes, piedmontes, movimientos en masa, relieves litológicos y estructurales
+
+- Exploren fotografías aéreas para identificar/dibujar/describir vertientes y depósitos de vertientes, así como evidencia de deslizamientos (se les llama técnicamente y de forma genérica "movimientos en masa"). También pueden identificar/dibujar acumulaciones de materiales al pie de las montañas, como conos de deyección y abanicos aluviales. Describan morfométricamente, es decir, usando formas ("alargada", "en forma de") y dimensiones, e indiquen ubicación relativa en la foto (derecha/izquierda/arriba/abajo es válido, siempre que se indique la orientación de la foto) usando rótulos alfabéticos, numéricos o alfanuméricos.
+
+- Formulen preguntas e hipótesis sobre el posible origen de los procesos/elementos identificados y descritos, su  relación con la conformación hábitats y/o ecosistemas, así con la potencial influencia de estos elementos sobre la distribución de los seres vivos.
+
+---
+
+## Grupo 4. Geomorfología litoral
+
+- Identifiquen/dibujen áreas de **acumulación de sedimentos litorales** (e.g. playas, dunas, surcos/crestas dunares), flechas, cordones, posibles áreas de **erosión costera** (e.g. acantilados, zonas de abrasión). Describan morfométricamente, es decir, usando formas ("alargada", "en forma de") y dimensiones, e indiquen ubicación relativa en la foto (derecha/izquierda/arriba/abajo es válido, siempre que se indique la orientación de la foto) usando rótulos alfabéticos, numéricos o alfanuméricos.
+
+- Formulen preguntas e hipótesis sobre el posible origen de los procesos/elementos identificados y descritos, su  relación con la conformación hábitats y/o ecosistemas, así con la potencial influencia de estos elementos sobre la distribución de los seres vivos.
+
+
+---
+
+## Grupo 5. Karst, y otros relieves litológicos y/o estructurales
+
+- Identifiquen/dibujen, en áreas de relieves kársticos y otros relieves litológicos, elementos morfológicos propios de estos. En el caso del karst, se pueden incluir elementos como dolinas, uvalas, poljes, "relieves positivos" (mogotes, conos, torres), superficies de corrosión, acumulaciones de canchales, terrazas típicas de los karst de plataforma. En otros relieves litológicos y elementos estructurales, si los encuentran, podrían incluirse escarpes de falla (o incluso facetas), rumbo estratos, depresiones del relieve granítico, pedrizas, entre otros. Describan morfométricamente, es decir, usando formas ("alargada", "en forma de") y dimensiones, e indiquen ubicación relativa en la foto (derecha/izquierda/arriba/abajo es válido, siempre que se indique la orientación de la foto) usando rótulos alfabéticos, numéricos o alfanuméricos.
+
+- Formulen preguntas e hipótesis sobre el posible origen de los procesos/elementos identificados y descritos, su  relación con la conformación hábitats y/o ecosistemas, así con la potencial influencia de estos elementos sobre la distribución de los seres vivos.
+
+---
+
+# Formulario para entrega
+
+- Visita [este formulario](https://odk.geofis.xyz/f/bqYU7RHyPrStT8IEdUq3nr17lSqVf2V?st=hkELtwceymHS4oHkhf8Lx3mb4GEAnWQZes6uvQsyIXXziEw4S1G$klNvuYZDNQ53) para registrar los resultados de tu grupo.
+
+
+---

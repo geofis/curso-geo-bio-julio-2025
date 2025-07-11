@@ -68,17 +68,19 @@ Reconocer evidencias de meteorización química y física en fotografías aérea
 
 # Instrucción general
 
-1. Tomen un "par estereoscópico". Son dos fotografías (aéreas y verticales en nuestro caso) que se superponen parcialmente y permiten, al ser observadas con un estereoscopio, percibir el relieve en tres dimensiones gracias a la visión binocular y la propiedad del paralaje.
+- Paso 1. Tomen un "par estereoscópico". Son dos fotografías (aéreas y verticales en nuestro caso) que se superponen parcialmente y permiten, al ser observadas con un estereoscopio, percibir el relieve en tres dimensiones gracias a la visión binocular y la propiedad del paralaje. Las líneas de vuelo (escritas como "FAJA" en uno de los cintillos laterales de cada fotograma), y los puntos centrales de cada foto (coinciden con el rótulo "N°" impreso sobre la foto), están representados en los archivos KMZ (extensión `.kmz`) y GeoPackage (extensión `.gpkg`) del directorio de este mismo repo [`foto-indice-marena`](foto-indice-marena/), y en el Drive [`geo114`](https://drive.google.com/drive/folders/1pBpz7zlx9JCmtj_PGXp24YOFO12dGcIJ?usp=drive_link); descarguen esos archivos y represéntenlos con Google Earth, QGIS (PC), o SW Maps en el teléfono (en SW Maps, es necesario localizar la carpeta donde se alojan los mapas, y colocarlos allí; en Android, suele ser la siguiente ruta si se trata de almacenamiento interno: `/storage/emulated/0/Android/media/np-com.softwel.swmaps/Maps/kml` o `Android/media/np-com.softwel.swmaps/Maps/kml`).
 
-2. Oriéntenlas en la dirección correspondiente y observarlas/intepretarlas con el estereoscopio de bolsillo. Seguir instrucciones en el aula, practicar para ganar destreza. Todos los miembros del grupo debería intentar la visión estereoscópica, pero por cuestiones de probabilidades, habrá una o varias personas en el grupo que adquirirán esta destreza más rápidamente; aprovechen esas capacidades.
+  - **Nota**: Si no tienen acceso a los archivos KMZ, pueden usar las fotos aéreas impresas que se les proporcionarán en el aula. En este caso, las fotos están organizadas por rollo y faja, y cada foto tiene un número de identificación.
+
+- Paso 2. Oriéntenlas en la dirección correspondiente y observarlas/intepretarlas con el estereoscopio de bolsillo. Seguir instrucciones en el aula, practicar para ganar destreza. Todos los miembros del grupo debería intentar la visión estereoscópica, pero por cuestiones de probabilidades, algunas personas en el grupo adquirirán esta destreza más rápidamente; aprovechen esas capacidades.
 
 ---
 
-3. Identifiquen los elementos que se piden para su grupo elegido. Intenten, si pueden, dibujarlos sobre un sobre papel vegetal colocado encima de la foto e inmovilizado (usar *tape* para fijarlo). Escriban sobre el papel vegetal el número de rollo, la faja y el número de la foto que se está interpretando.
+- Paso 3. Identifiquen los elementos que se piden para su grupo elegido. Intenten, si pueden, dibujarlos sobre un sobre papel vegetal colocado encima de la foto e inmovilizado (usar *tape* para fijarlo). Escriban sobre el papel vegetal el número de rollo, la faja y el número de la foto que se está interpretando.
 
-4. Con el teléfono, tomar "foto de la foto" analizada y anotarla de acuerdo con la interpretación realizada y "acordada" (el mito del consenso no existe, pero na', discutan). Usen códigos alfabéticos, numéricos o alfanuméricos; si se puede, usen geometrías de polígonos y lineas que puedan referirse en el texto/pie de la "foto de la foto". Si lo desean, podrían colocar papel vegetal encima de la foto y dibujar sobre éste con lápiz, pero el papel vegetal, al ser algo opaco, a algunas personas les dificulta la visión estereoscópica.
+- Paso 4. Con el teléfono, tomar "foto de la foto" analizada y anotarla de acuerdo con la interpretación realizada y "acordada" (el mito del consenso no existe, pero na', discutan). Usen códigos alfabéticos, numéricos o alfanuméricos; si se puede, usen geometrías de polígonos y lineas que puedan referirse en el texto/pie de la "foto de la foto". Si lo desean, podrían colocar papel vegetal encima de la foto y dibujar sobre éste con lápiz, pero el papel vegetal, al ser algo opaco, a algunas personas les dificulta la visión estereoscópica.
 
-5. Interpretar posibles relaciones, consecuencias o implicaciones de lo observado respecto de hábitats, ecosistemas o distribución de seres vivos. Más detalles en los mandatos guía de cada grupo.
+- Paso 5. Interpretar posibles relaciones, consecuencias o implicaciones de lo observado respecto de hábitats, ecosistemas o distribución de seres vivos. Más detalles en los mandatos guía de cada grupo.
 
 > Precauciones. Al usar el estereoscopio de bolsillo, para poder ver tridimensionalmente toda el área de superposición, las fotos se deben plegar. Sin embargo, eviten plegarlas hasta el punto de hacerles dobleces, porque quedarán con marcas permanentes que las degradarán. No escriban sobre las fotos.
 
