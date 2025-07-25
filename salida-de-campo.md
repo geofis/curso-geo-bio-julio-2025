@@ -1,12 +1,12 @@
 Curso ‘Geología y geomorfología aplicadas a la biología, nivel básico’,
-julio 2025
+julio 2025 <br> Guía de la salida de campo <br> <it> Curso de formación
+continua organizado por ADEBIO y la Escuela de Ciencias Geográficas
+(UASD) </it>
 ================
 José Martínez
 
 Versión HTML (quizá más legible),
 [aquí](https://geofis.github.io/curso-geo-bio-julio-2025/salida-de-campo.html)
-
-## Curso de formación continua organizado por ADEBIO y la Escuela de Ciencias Geográficas (UASD). Guía de la salida de campo
 
 ## Generales
 
@@ -41,7 +41,7 @@ Versión HTML (quizá más legible),
 
 ------------------------------------------------------------------------
 
-### ¿Qué llevar?
+## ¿Qué llevar?
 
 - Dinero en efectivo. La entrada al área protegida y a la cueva tienen
   un costo de RD\$200 (total), no incluido en el importe del transporte.
@@ -66,6 +66,8 @@ Versión HTML (quizá más legible),
 - Me parece que olvidé decirte que lleves agua, ¿o ya te lo dije? Por si
   acaso, lleva mucha agua.
 
+------------------------------------------------------------------------
+
 ## Itinerario propuesto (sujeto a modificaciones):
 
 | Lugar                                                                  | Actividad                                            |                                              URL                                               | Temas                                                                                       |
@@ -77,14 +79,18 @@ Versión HTML (quizá más legible),
 | 5\. El Tablazo                                                         | Caminata por la ribera del río Nigua                 |                     <https://maps.app.goo.gl/2WhQDpjUTvZC3ojE7> (FRJJ+PWJ)                     | Geomorfología fluvial, riesgos por inundaciones, extacción de materiales, bosque de galería |
 | 6\. Playita de Nigua                                                   | Caminata por la playita y el manglar cercano         |                     <https://maps.app.goo.gl/ssDwyLMvKewzxJ1GA> (9WCX+HP7)                     | Geomorfología litoral, *beach rock*                                                         |
 
-## Formulario de ODK
+------------------------------------------------------------------------
+
+## Información complementaria
+
+### Formulario de ODK
 
 - [Formulario de ODK para rellenar datos de campo y formular
   preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa)
 
   <img src="qr-odk-form.jpg" width="250px">
 
-## Otros enlaces y aplicaciones útiles
+### Otros enlaces y aplicaciones útiles
 
 - [SW Maps](https://aviyaantech.com/swmaps/)
 - [Gaia GPS](https://www.gaiagps.com/)
@@ -106,7 +112,7 @@ Versión HTML (quizá más legible),
 - [Mapa geológico de RD, escala
   1:250,000](https://geofis.xyz/lm/index.php/view/map/?repository=geo250krd&project=geologico_gpkg)
 
-## ¿Qué lleva el tali?
+### ¿Qué lleva el tali?
 
 - Pizarras y marcadores
 - Mapas en papel, pero sobre todo, en digital
@@ -115,3 +121,4 @@ Versión HTML (quizá más legible),
 - GNSS, aunque estoy dudándolo aún
 - Lupas
 - Punzones de dureza y placa de porcelana
+- Ácido clorhídrico
