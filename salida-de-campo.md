@@ -26,7 +26,7 @@ Versión HTML (quizá más legible),
 
 - Código QR de esta página:
 
-  <img src="qr-campo.jpg" width="300px">
+  <img src="qr-campo.jpg" width="250px">
 
 - [Enlace de esta
   página](https://github.com/geofis/curso-geo-bio-julio-2025/blob/main/salida-de-campo.md)
@@ -79,15 +79,12 @@ Versión HTML (quizá más legible),
 
 ## Formulario de ODK
 
-<figure>
-<img
-src="https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa"
-alt="Formulario de ODK para rellenar datos de campo y formular preguntas" />
-<figcaption aria-hidden="true">Formulario de ODK para rellenar datos de
-campo y formular preguntas</figcaption>
-</figure>
+- [Formulario de ODK para rellenar datos de campo y formular
+  preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa)
 
-## Enlaces y aplicaciones útiles
+  <img src="qr-odk-form.jpg" width="250px">
+
+## Otros enlaces y aplicaciones útiles
 
 - [SW Maps](https://aviyaantech.com/swmaps/)
 - [Gaia GPS](https://www.gaiagps.com/)
