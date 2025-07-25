@@ -77,14 +77,14 @@ Versión HTML (quizá más legible),
 | 5\. El Tablazo                                                         | Caminata por la ribera del río Nigua                 |                     <https://maps.app.goo.gl/2WhQDpjUTvZC3ojE7> (FRJJ+PWJ)                     | Geomorfología fluvial, riesgos por inundaciones, extacción de materiales, bosque de galería |
 | 6\. Playita de Nigua                                                   | Caminata por la playita y el manglar cercano         |                     <https://maps.app.goo.gl/ssDwyLMvKewzxJ1GA> (9WCX+HP7)                     | Geomorfología litoral, *beach rock*                                                         |
 
-## Enlace formulario de ODK para formular preguntas
+## Formulario de ODK
 
 <figure>
 <img
-src="RELLENAR%20RELLENAR%20RELLENAR%20RELLENAR%20RELLENAR%20RELLENAR"
-alt="RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR" />
-<figcaption aria-hidden="true">RELLENAR RELLENAR RELLENAR RELLENAR
-RELLENAR RELLENAR</figcaption>
+src="https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa"
+alt="Formulario de ODK para rellenar datos de campo y formular preguntas" />
+<figcaption aria-hidden="true">Formulario de ODK para rellenar datos de
+campo y formular preguntas</figcaption>
 </figure>
 
 ## Enlaces y aplicaciones útiles

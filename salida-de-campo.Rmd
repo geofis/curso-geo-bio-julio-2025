@@ -109,9 +109,9 @@ if (grepl('gfm', output_format)) {
 | 5. El Tablazo | Caminata por la ribera del río Nigua | https://maps.app.goo.gl/2WhQDpjUTvZC3ojE7 (FRJJ+PWJ) | Geomorfología fluvial, riesgos por inundaciones, extacción de materiales, bosque de galería |
 | 6. Playita de Nigua | Caminata por la playita y el manglar cercano | https://maps.app.goo.gl/ssDwyLMvKewzxJ1GA (9WCX+HP7) | Geomorfología litoral, *beach rock* | 
 
-## Enlace formulario de ODK para formular preguntas
+## Formulario de ODK
 
-![RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR ](RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR RELLENAR )
+![Formulario de ODK para rellenar datos de campo y formular preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa)
 
 ## Enlaces y aplicaciones útiles
 
