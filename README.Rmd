@@ -44,7 +44,7 @@ org_name <- basename(dirname(repo_url))
 rmd_filename <- tools::file_path_sans_ext(basename(knitr::current_input()))
 github_pages_url_general <- paste0("https://", org_name, ".github.io/", repo_name, "/")
 github_pages_url <- paste0("https://", org_name, ".github.io/", repo_name, "/", rmd_filename, ".html")
-github_md_url <- paste0('https://github.com/geofis/curso-tg-junio-2025/blob/main/')
+github_md_url <- paste0('https://github.com/geofis/curso-geo-bio-julio-2025/blob/main/')
 ```
 
 ```{r, results='asis', echo=F}
@@ -130,6 +130,9 @@ Las sesiones serán de 2 horas; en cada una, se hará una introducción de conoc
 
 - [Meteorización y morfosistemas, importancia sobre la distribución de los seres vivos](`r paste0(github_pages_url_general, 'media/temas-2-a-6-practica.html')`)
 
+## Salida de campo (26 de julio, 2025)
+
+- [Guía de la salida de campo](`r paste0(github_md_url, 'salida-de-campo.md')`)
 
 ## Referencias
 

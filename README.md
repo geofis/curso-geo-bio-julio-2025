@@ -142,6 +142,11 @@ herramientas de mesa y digitales provistas por el profesor.
   los seres
   vivos](https://geofis.github.io/curso-geo-bio-julio-2025/media/temas-2-a-6-practica.html)
 
+## Salida de campo (26 de julio, 2025)
+
+- [Guía de la salida de
+  campo](https://github.com/geofis/curso-geo-bio-julio-2025/blob/main/salida-de-campo.md)
+
 ## Referencias
 
 - Anderson, R. S., & Anderson, S. P. (2010). Geomorphology: The
