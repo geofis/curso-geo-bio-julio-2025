@@ -114,7 +114,7 @@ if (grepl('gfm', output_format)) {
 
 ### Formulario de ODK
 
-- [Formulario de ODK para rellenar datos de campo y formular preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=hM3MFnbUhj6M8kfiDM!IAiIuv991N86fBu7m8E8zzOs9IoKmICReOHEH$1v3SUcR)
+- [Formulario de ODK para rellenar datos de campo y formular preguntas (sólo funciona con conexión a internet)](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=hM3MFnbUhj6M8kfiDM!IAiIuv991N86fBu7m8E8zzOs9IoKmICReOHEH$1v3SUcR)
 
 
   <img src="qr-odk-form.jpg" width="250px">
@@ -126,10 +126,10 @@ if (grepl('gfm', output_format)) {
 - [Gaia GPS](https://www.gaiagps.com/)
 - [Mapas geológicos (50k) y geomorfológicos (100k) del área, del Servicio Geológico Nacional (SGN)](https://drive.google.com/drive/folders/1686-LF6yR29go5nc3FQsK_E_hxP74dYP?usp=drive_link). Hojas recomendadas:
   - Mapa índice. Descárgalo, pues te servirá para determinar qué hojas necesitas.
-    - [MBTile](https://drive.google.com/file/d/1nwkFf8f-bbFSTp3YJAGlSQ4WozVMt9E4/view?usp=drive_link)
+    - [MBTiles](https://drive.google.com/file/d/1nwkFf8f-bbFSTp3YJAGlSQ4WozVMt9E4/view?usp=drive_link)
     - [PDF](https://drive.google.com/file/d/1yJlHOllz8Z-koD4Zk6GHWJdf7yX0OwaJ/view?usp=drive_link)
   - Hoja de San Cristóbal
-    - [MBTile](https://drive.google.com/file/d/1n0TldyiKohX3neaBb46kesArg3nK80CM/view?usp=drive_link)
+    - [MBTiles](https://drive.google.com/file/d/1n0TldyiKohX3neaBb46kesArg3nK80CM/view?usp=drive_link)
     - [PDF](https://drive.google.com/file/d/1Saz4yuG3m5Zweph2-F-FAwxBaxRtuB3v/view?usp=drive_link)
 - [Mapa topográfico nacional de RD (hay apps que lo ofrecen también). ¡IMPORTANTE! Acerca a escala 1:90,000 o mayor (por ejemplo, 1:50,000), para lograr que se despliegue.](https://geofis.xyz/lm/index.php/view/map/?repository=mtnrd50k&project=mtnrd50k)
 - [Mapa geológico de RD, escala 1:250,000](https://geofis.xyz/lm/index.php/view/map/?repository=geo250krd&project=geologico_gpkg)

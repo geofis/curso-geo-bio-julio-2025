@@ -85,8 +85,9 @@ Versión HTML (quizá más legible),
 
 ### Formulario de ODK
 
-- [Formulario de ODK para rellenar datos de campo y formular
-  preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=hM3MFnbUhj6M8kfiDM!IAiIuv991N86fBu7m8E8zzOs9IoKmICReOHEH$1v3SUcR)
+- [Formulario de ODK para rellenar datos de campo y formular preguntas
+  (sólo funciona con conexión a
+  internet)](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=hM3MFnbUhj6M8kfiDM!IAiIuv991N86fBu7m8E8zzOs9IoKmICReOHEH$1v3SUcR)
 
   <img src="qr-odk-form.jpg" width="250px">
 
@@ -100,10 +101,10 @@ Versión HTML (quizá más legible),
   Hojas recomendadas:
   - Mapa índice. Descárgalo, pues te servirá para determinar qué hojas
     necesitas.
-    - [MBTile](https://drive.google.com/file/d/1nwkFf8f-bbFSTp3YJAGlSQ4WozVMt9E4/view?usp=drive_link)
+    - [MBTiles](https://drive.google.com/file/d/1nwkFf8f-bbFSTp3YJAGlSQ4WozVMt9E4/view?usp=drive_link)
     - [PDF](https://drive.google.com/file/d/1yJlHOllz8Z-koD4Zk6GHWJdf7yX0OwaJ/view?usp=drive_link)
   - Hoja de San Cristóbal
-    - [MBTile](https://drive.google.com/file/d/1n0TldyiKohX3neaBb46kesArg3nK80CM/view?usp=drive_link)
+    - [MBTiles](https://drive.google.com/file/d/1n0TldyiKohX3neaBb46kesArg3nK80CM/view?usp=drive_link)
     - [PDF](https://drive.google.com/file/d/1Saz4yuG3m5Zweph2-F-FAwxBaxRtuB3v/view?usp=drive_link)
 - [Mapa topográfico nacional de RD (hay apps que lo ofrecen también).
   ¡IMPORTANTE! Acerca a escala 1:90,000 o mayor (por ejemplo, 1:50,000),
