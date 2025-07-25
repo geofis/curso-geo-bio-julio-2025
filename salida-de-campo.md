@@ -86,7 +86,7 @@ Versión HTML (quizá más legible),
 ### Formulario de ODK
 
 - [Formulario de ODK para rellenar datos de campo y formular
-  preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=J0lTXK0dnUb5PLExx!rVfV7QKwPGN6PIij9rgBMG7OJnSyL$nr763yROxBdvulQa)
+  preguntas](https://odk.geofis.xyz/f/csovOkraHSgJ8bng7DRxZ1LS6QxttHV?st=hM3MFnbUhj6M8kfiDM!IAiIuv991N86fBu7m8E8zzOs9IoKmICReOHEH$1v3SUcR)
 
   <img src="qr-odk-form.jpg" width="250px">
 
@@ -122,3 +122,6 @@ Versión HTML (quizá más legible),
 - Lupas
 - Punzones de dureza y placa de porcelana
 - Ácido clorhídrico
+- Piqueta de geología
+- Guía de minerales y rocas
+- Luz frontal o foco común
